@@ -1,0 +1,18 @@
+# Local SQLite databases: existing tracked teaching samples are retained
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Local C builds
+a.out
+*.o
+*.out
+build/
+
+# Editor files
+*.swp
+*~
+.DS_Store
